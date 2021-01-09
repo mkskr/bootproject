@@ -29,8 +29,22 @@ API END POINT:-
 (1) localhost:8080/api/auth/signup 
 for registration
 
+{
+    "name":"mukesh",
+    "username":"user1",
+    "email":"mkshsingh976@gmail.com",
+    "password":"12345678",
+    "mobileNumber":"8210765072",
+    "dob":"10-1-1990",
+    "address":"ranchi"
+}
+
 (2) localhost:8080/api/auth/otp
 for otp
+
+{
+    "otpNumber":"5762"
+}
 
 (3)localhost:8080/api/auth/signin
 for login
