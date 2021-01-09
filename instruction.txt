@@ -1,0 +1,59 @@
+How to run this project
+------------------------
+
+Step-1
+----------
+clone this repo ( https://github.com/mkskr/bootproject )
+
+Step-2
+------------
+open this project in STS 
+
+Step-3
+--------------
+Create Database (i am using mysql)
+
+Step-4
+----------
+open application.properties file and change database name, database user and database password
+(finally save your changes)
+
+Step-5
+-----------
+Run this project
+
+
+==================================
+
+API END POINT:-
+(1) localhost:8080/api/auth/signup 
+for registration
+
+(2) localhost:8080/api/auth/otp
+for otp
+
+(3)localhost:8080/api/auth/signin
+for login
+
+(4)localhost:8080/api/auth/logout
+for logout
+
+(5) localhost:8080/api/test/profiles/1
+ for single profile
+
+ (6) localhost:8080/api/test/profiles
+ for all users
+
+ ==========================================
+
+
+
+
+
+
+
+
+
+
+
+
